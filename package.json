@@ -1,11 +1,11 @@
 {
   "name": "portfo",
-  "homepage": "https://j3cody.github.io/Port/",
+  "homepage": "https://j3cody.github.io/Jatin-Portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite", 
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
